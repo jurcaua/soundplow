@@ -5,7 +5,7 @@ from threading import Timer
 import soundplow
 from log import Log
 
-DEFAULT_OUTPUT = r'E:\Music'
+DEFAULT_OUTPUT = r'D:\Music'
 DEFAULT_LIKE_CHECK_INTERVAL = 1.0
 DEFAULT_MAX_LIKE_CHECK = 10
 DEFAULT_SEARCH_RESULTS = 5
