@@ -1,0 +1,2 @@
+class WidgetNotFound(RuntimeError):
+    pass

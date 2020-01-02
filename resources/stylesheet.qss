@@ -1,0 +1,4 @@
+#http://doc.qt.io/qt-5/stylesheet-syntax.html
+#https://coolors.co/dad2d8-143642-0f8b8d-ec9a29-a8201a
+#QMainWindow { background-color: #EC9A29 }
+#QLabel { color: #EC9A29}
